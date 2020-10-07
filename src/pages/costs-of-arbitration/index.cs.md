@@ -3,6 +3,7 @@ title: Náklady na arbitráž
 date: '2020-10-07'
 # Intentionally left in English, as these are lyrics.
 spoiler: Rychlý průvodce cenou za arbitráž
+cta: ''
 ---
 
 Cena klasického soudního řízení záleží na:

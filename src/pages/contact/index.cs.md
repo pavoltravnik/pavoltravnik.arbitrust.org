@@ -3,6 +3,7 @@ title: Kontakt
 date: '2020-10-06'
 # Intentionally left in English, as these are lyrics.
 spoiler: Hledáte na mě kontakt? Tady ho máte.
+cta: ''
 ---
 
 ## Pavol Travnik
