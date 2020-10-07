@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: 'Arbitrust',
-    author: 'MUDr. Blandína Lipková, PhD.',
-    description: 'Súkromná očná ambulancia v Žiline',
+    author: 'Mgr. Pavol Travnik',
+    description: 'private arbiter',
     siteUrl: 'https://www.pavoltravnik.arbitrust.org/',
     social: {
       twitter: '@pavoltravnik',

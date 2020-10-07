@@ -37,7 +37,7 @@ function SEO({ meta, image, title, description, slug, lang = 'en' }) {
                   title,
                 }
               : {
-                  title: `${siteMetadata.title} — Súkromná očná ambulancia v Žiline`,
+                  title: `${siteMetadata.title} — Private Ad hoc arbiter`,
                 })}
             meta={[
               {
