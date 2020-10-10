@@ -8,3 +8,5 @@ cta: ''
 ![Number of incoming civil and commercial litigious cases](./number-of-litigations.png)
 
 Number of incoming civil and commercial litigious cases has a clear trend. People in more developed countries are using courts less.
+
+Source: <https://ec.europa.eu/info/sites/info/files/justice_scoreboard_2019_en.pdf>
