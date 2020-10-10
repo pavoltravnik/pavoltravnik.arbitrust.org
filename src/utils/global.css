@@ -201,7 +201,7 @@ pre[class*='language-'] ::selection {
 }
 
 .token.boolean {
-  color: rgb(255, 88, 116);
+  color: rgb(130, 170, 255);
 }
 
 .token.property {

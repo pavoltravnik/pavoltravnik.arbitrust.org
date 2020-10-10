@@ -5,7 +5,7 @@ spoiler: Vytváří legislativa příliš mnoho změn v zákonech?
 cta: ''
 ---
 
-## United Kingdom
+## Velká Británie
 
 ![Trend legislativy v UK](./united-kingdom.png)
 
