@@ -1,17 +1,10 @@
 ---
-title: Number of incoming civil and commercial litigious cases
-date: '2020-10-09'
-spoiler: What to add to contract?
+title: Number of litigious cases
+date: '2020-10-08'
+spoiler: What is number of incoming civil and commercial litigious cases per year?
 cta: ''
 ---
 
-If you wish to appoint me as an arbitrator, please put this article into your contract.
+![Number of incoming civil and commercial litigious cases](./number-of-litigations.png)
 
->> All disputes or claims arising out of or in connection with this contract, including disputes relating to its validity, breach, termination or nullity, shall be finally settled online by sole arbitrator Mgr. Pavol Travnik (email: pavol.travnik@arbitrust.org)
->>
->> Parties have chosen for online proceeding these email addresses:
->>
->> - Alice@yahoo.com
->> - Bob@gmail.com
-
-It is simple as that.
+Number of incoming civil and commercial litigious cases has a clear trend. People in more developed countries are using courts less.
