@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'gatsby';
 import Toggle from './Toggle';
 import Helmet from 'react-helmet';
+import ArbitrustLogo from './ArbitrustLogo';
 
 import { rhythm, scale } from '../utils/typography';
 import sun from '../assets/sun.png';
@@ -18,54 +19,34 @@ class Layout extends React.Component {
     };
   }
   renderHeader() {
-    const { location, title } = this.props;
-    const rootPath = `${__PATH_PREFIX__}/`;
+    const { title } = this.props;
+    // const rootPath = `${__PATH_PREFIX__}/`;
 
-    if (location.pathname === rootPath) {
-      return (
-        <h1
+    return (
+      <p
+        style={{
+          ...scale(0.75),
+          marginBottom: 0,
+          marginTop: 0,
+        }}
+      >
+        <Link
           style={{
-            ...scale(0.75),
-            marginBottom: 0,
-            marginTop: 0,
+            boxShadow: 'none',
+            textDecoration: 'none',
+            color: 'var(--textTitle)',
+            display: 'flex',
+            justifyContent: 'space-between',
+            alignItems: 'center',
+            fontFamily: 'Lato,\'Helvetica Neue\',Helvetica,Arial,sans-serif',
           }}
+          to={'/'}
         >
-          <Link
-            style={{
-              boxShadow: 'none',
-              textDecoration: 'none',
-              color: 'var(--textTitle)',
-            }}
-            to={'/'}
-          >
-            {title}
-          </Link>
-        </h1>
-      );
-    } else {
-      return (
-        <h3
-          style={{
-            fontFamily: 'Montserrat, sans-serif',
-            marginTop: 0,
-            marginBottom: 0,
-            height: 42, // because
-            lineHeight: '2.625rem',
-          }}
-        >
-          <Link
-            style={{
-              boxShadow: 'none',
-              textDecoration: 'none',
-              color: 'rgb(0, 121, 255)',
-            }}
-            to={'/'}
-          >
-            {title}
-          </Link>
-        </h3>
-      );
-    }
+          <ArbitrustLogo theme={this.state.theme} />
+          {title}
+        </Link>
+      </p>
+    );
   }
   render() {
     const { children } = this.props;

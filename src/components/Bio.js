@@ -23,9 +23,7 @@ class Bio extends React.Component {
           }}
         />
         <p style={{ maxWidth: 310 }}>
-          <strong>Pavol Travnik</strong>{' '}<br />
-          private arbitrator{' '}
-          pavol.travnik@arbitrust.org{' '}
+          <strong>Pavol Travnik, arbitration evangelist, sw developer {'&'} arbitrator.</strong>
         </p>
       </div>
     );

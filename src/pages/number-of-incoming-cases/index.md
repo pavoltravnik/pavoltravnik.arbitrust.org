@@ -1,6 +1,6 @@
 ---
-title: Arbitration Clause
-date: '2020-10-01'
+title: Number of incoming civil and commercial litigious cases
+date: '2020-10-09'
 spoiler: What to add to contract?
 cta: ''
 ---
