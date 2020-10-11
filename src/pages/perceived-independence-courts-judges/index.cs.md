@@ -5,7 +5,7 @@ spoiler: Důvěra veřejnosti v nezávislost soudů a soudců
 cta: ''
 ---
 
-Důvěra vřejnosti v nezávislost soudců a soudů
+Důvěra vřejnosti v nezávislost soudců a soudů v Evropské unii
 
 ![Důvěra veřejnosti v nezávislost soudů a soudců](./perceived-independence-courts-judges.jpg)
 

@@ -5,7 +5,7 @@ spoiler: Perceived independence of courts and judges among the general public by
 cta: ''
 ---
 
-Perceived independence of courts and judges among the general public by country
+Perceived independence of courts and judges among the general public by country in European Union
 
 ![Perceived independence of courts and judges among the general public](./perceived-independence-courts-judges.jpg)
 

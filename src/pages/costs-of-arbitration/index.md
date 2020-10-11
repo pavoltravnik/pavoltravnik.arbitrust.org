@@ -1,7 +1,7 @@
 ---
 title: Costs of arbitration
 date: '2020-10-07'
-spoiler: Quick guide of costs of arbitration
+spoiler: Quick guide on costs of arbitration
 cta: ''
 ---
 
