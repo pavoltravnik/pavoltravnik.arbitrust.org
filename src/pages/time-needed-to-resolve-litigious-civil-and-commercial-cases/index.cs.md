@@ -5,15 +5,13 @@ spoiler: Máte představu jak dlouho trvá soud? Kompletní přehled na jedné s
 cta: ''
 ---
 
-Tenhle článek je proti anglickému rozšířený, protože téma je pro mě značně zajímavé.
-
 ## Evropská unie
 
 Pro srovnání se nejdřív podívejme na trend v Evropské unii. Na prvním obrázku je srovnání sporné civilní a komerční agendy pro první instanci (stupeň).
 
 ![Délka soudního řízení v civilních a komerčních soudních sporech](./time-civil-case-first-instance.png)
 
-Time needed to resolve litigious civil and commercial cases (*) at all court instances in 2017 (1st, 2nd and 3rd instance/in days)
+Sporná civilní a komerční agenda pro první instanci (stupeň). všechny instance v roce 2017 (první, druhá a třetí instance/počet dní)
 
 ![Délka soudního řízení v civilních a komerčních soudních sporech všechny instance](./time-civil-case-all-instances.png)
 
@@ -98,4 +96,4 @@ Zdroj: <https://www.echr.coe.int/Documents/Stats_analysis_2019_ENG.pdf>
 
 ## Závěr
 
-Po setčení průměrných časů na vyřešení spurů všech českých instancí činí výsledek 732 dnů. Tento počet je ideální a nezahrnuje mezistupně jako předání spisu mezi soudama do času přidělení spisové značky a také nezahrnuje cyklické nebo opakované předávaní té samé věci mezi instancema. V případě, že se chcete pohybovat u rozhodnutí v řádech týdnů místo let, doporučuji zvážit vám a vašim obchodním partnerům arbitráž.
+Po setčení průměrných časů na vyřešení sporů všech českých instancí činí výsledek 732 dnů. Tento počet je ideální a nezahrnuje mezistupně jako předání spisu mezi soudama do času přidělení spisové značky a také nezahrnuje cyklické nebo opakované předávaní té samé věci mezi instancema. V případě, že se chcete pohybovat u rozhodnutí v řádech týdnů místo let, doporučuji zvážit vám a vašim obchodním partnerům arbitráž.
